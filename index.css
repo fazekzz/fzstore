@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+}
+.centered-image img {
+    max-width: 60%; /* Diminuí o tamanho da imagem para 60% */
+    height: auto;
+    border-radius: 10px;
+    transition: transform 0.2s ease-out; /* Animação suave */
+}
